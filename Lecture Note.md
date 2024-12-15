@@ -4,7 +4,7 @@ permalink: /Lecture Note/index.html
 title: Lecture Note
 ---
 # Lecture Notes
-I use [Obsidian](https://obsidian.md/)
+For the fast typing of Markdown, I recommend [Obsidian](https://obsidian.md/)
 ## Yunnan University
 ### 2022 Fall 
 - *Quantum Mechanics* - Qing Chen<br*>
