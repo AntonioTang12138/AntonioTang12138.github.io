@@ -9,11 +9,11 @@ owner:
   name: Zifan Tang
   avatar: zifan.jpg
   bio: My mission, is to live the Sun's life.
-  email: cduttangzifan@gmail.com
-  cv: https://antoniotang12138.github.io/file/CV-Zifan-Tang-04-2024.pdf
+  email: zifan@ucsb.edu
+  cv: https://antoniotang12138.github.io/file/CV_Zifan_2024.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   # twitter: lancecai2002
-  # github: Antonio12138
+  github: Antonio12138
   zhihu: https://www.zhihu.com/people/tang-zi-fan-27
   linkedin(TBD): https://www.linkedin.com/in/%E5%AD%90%E5%87%A1-%E6%B1%A4-1180852ab/
   # scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
@@ -41,8 +41,8 @@ links:
     url: /
   #- title: Teams
   #  url: /teams/
-  - title: Publications(TBD)
-    #url: /publications/
+  - title: Research
+    #url: /research/
   - title: Awards(TBD)
     url: /awards/
   - title: Lecture Note
