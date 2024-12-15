@@ -27,6 +27,7 @@ Final Paper: [Cosmological Constant and Vacuum Energy](https://antoniotang12138.
 - Computational Physics - [Xianghua Li](http://www.science.ynu.edu.cn/info/1058/1122.htm) [Final Project](https://antoniotang12138.github.io/file/Ising相变的Monte Carol模拟.pdf)
 - Statistical Mechanics - [Prof. Bo Zheng](https://person.zju.edu.cn/0001056) - 自编讲义
 - Mathematical Methods for Physics - 周曙白 - 课堂笔记
+
 ### 2024 Fall 
 - Graduation Internship and Social Survey - [Wenhui Lin](http://www.astro.ynu.edu.cn/info/1008/1237.htm) - [Yunnan University Observatory Tour Guide Script](https://antoniotang12138.github.io/file/天文台导游解说词-汤子凡-李桉锐-折慕凡.pdf)
 
@@ -34,6 +35,7 @@ Final Paper: [Cosmological Constant and Vacuum Energy](https://antoniotang12138.
 ### 2024 Winter 
 - Stellar Structure and Evolution-[Sunny Wong](https://www.physics.ucsb.edu/people/sunny-wong) - Handout
 - Planets and Exoplanets-[Prof. Ben Mazin](https://www.physics.ucsb.edu/people/benjamin-mazin) - [Final Paper](https://antoniotang12138.github.io/file/Final paper-PHYS132-Zifan Tang .pdf)
+
 ### 2024 Fall 
 - Classcial Mechanics(Graduate level) - [Prof. Donald Marolf](https://www.physics.ucsb.edu/people/donald-marolf)
 - 2024 Fall High Energy Astrophysics(Graduate level) - [Prof. Omer Blase]()(Retired in July,2025) 
