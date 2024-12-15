@@ -4,8 +4,8 @@ permalink: /Lecture Note/index.html
 title: Lecture Note
 ---
 # Lecture Notes
-
-## Lecture Notes in Yunnan University, using [Obsidian](https://obsidian.md/)
+I use [Obsidian](https://obsidian.md/)
+## Yunnan University
 ### 2022 Fall 
 - Quantum Mechanics - Qing Chen
 [Notes for CH1, 2, 3, 4](https://antoniotang12138.github.io/file/Quantum Mechanics_ CH 01, 02, 03, 04.pdf) 
