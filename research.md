@@ -10,9 +10,9 @@ title: Research
 **Undergrade Thesis**
 - Nucleosynthesis induced by the Fast Accretion of sMBH in the Disk of AGN<br>
 Thesis is written in both Chinese and English. Here is the [slides for Thesis Defence](https://antoniotang12138.github.io/file/Thesis_Defence_Zifan Tang.pdf)
----
 
-## Early Project
+**Early Project**
 - Simulation and Visualization of 2D Ising Model.(Written in Chinese)<br>
 [A Slides in English](https://antoniotang12138.github.io/file/Simulation and Visualization of 2d ising model.pdf)
 
+- Measuring Minuscule Elongation: a project for Chinese Undergrad Physics Experiment Competition (CUPEC)
