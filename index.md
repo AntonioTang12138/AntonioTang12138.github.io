@@ -9,7 +9,13 @@ title: Home
 **Department of Physics, UC Santa Barbara**
 
 
-**<em>Now I am applying for PhD programs or any research opportunity in the institutions of the United Sates.</em> If you are interested in any aspect of me, please email me at - *zifan[at]ucsb[dot]edu*** 
+<style>
+    .allText{
+        text-decoration: underline;
+    }
+Now I am seeking for PhD programs or research assistant or summer research or any research opportunity in the institutions of the United Sates.
+</style>
+<\div>If you are interested in any aspect of me, please email me at - zifan[at]ucsb[dot]edu
 
 [CV](https://antoniotang12138.github.io/file/CV_Zifan_2024.pdf)
 
