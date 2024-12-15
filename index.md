@@ -4,11 +4,12 @@ title: Home
 ---
 # Antonio Tang
 <br>
-**International visting student**
+
+**International visting student**<br>
 
 **Department of Physics, UC Santa Barbara**
-
-
+<br>
+<br>
 <style>
     .allText{
         text-decoration: underline;
