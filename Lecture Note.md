@@ -7,14 +7,14 @@ title: Lecture Note
 I use [Obsidian](https://obsidian.md/)
 ## Yunnan University
 ### 2022 Fall 
-- Quantum Mechanics - Qing Chen<br>
+- *Quantum Mechanics* - Qing Chen<br*>
 [Notes for CH1, 2, 3, 4](https://antoniotang12138.github.io/file/Quantum Mechanics_ CH 01, 02, 03, 04.pdf) 
 [Notes for CH 5, 6, 7, 8](https://antoniotang12138.github.io/file/Quantum Mechanics_ CH 05, 06, 07, 08.pdf)
-- Electrodynamics-Shubai Zhou（Retired）
+- *Electrodynamics*-Shubai Zhou（Retired）
 [Notes](https://antoniotang12138.github.io/file/Mathematical Methods for Physics.pdf) 
    
-- Fluid Mechanics - [Guangpeng Zhang](http://www.science.ynu.edu.cn/info/1058/1090.htm) - lecture note
-- General Relativity - [Zhonghui Fan](http://www.astro.ynu.edu.cn/info/1008/1086.htm) - [Notes](https://antoniotang12138.github.io/file/General-Relativity-LectureNotes-Zifan.pdf)<br> 
+- *Fluid Mechanics* - [Guangpeng Zhang](http://www.science.ynu.edu.cn/info/1058/1090.htm) - lecture note
+- *General Relativity* - [Zhonghui Fan](http://www.astro.ynu.edu.cn/info/1008/1086.htm) - [Notes](https://antoniotang12138.github.io/file/General-Relativity-LectureNotes-Zifan.pdf)<br> 
 
 
 ### 2023 Spring 
