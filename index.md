@@ -28,7 +28,6 @@ title: Home
 - Module for Experiment 
 - Condense Matter Theory(2D Ising Model)
 - AI4Physics
----
 
 ## News and Updates
 
@@ -36,7 +35,10 @@ title: Home
 
 - **May 15, 2024:** Interview with Osaka's was finished. The interview lasted 50 minutes and I was exhausted. In the evening, I also passed my Bachelor‘s thesis defence.
 
-- **May 20, 2024** Application to the Osaka Univerity was rejected. This interview was my last chance. This is a very unexpected failure because the professor there is one of my supervisor's collaborator. My supervisor suggests I prepare for the next year's application. But I haven't decided yet.
+- **May 20, 2024:** Application to the Osaka Univerity was rejected. This interview was my last chance. This is a very unexpected failure because the professor there is one of my supervisor's collaborator. My supervisor suggests I prepare for the next year's application. But I haven't decided yet.
 
-- **May 20, 2024** 
+- **Nov 30, 2024:** Northwestern, WUSTL, UCSD
 
+- **Dec. 14, 2024:** Fall quarter in UCSB ended yesterdasy. Today I updated my personal page for a new cycle of PhD application.
+
+- **Dec. 15, 2024:** Stony Brook, Purdue, Dartmouth
