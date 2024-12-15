@@ -3,8 +3,21 @@ layout: page
 permalink: /Lecture Note/index.html
 title: Lecture Note
 ---
-# Lecture Notes
+# Lecture Notes and Course Projects
 For the fast typing of Markdown, I recommend [Obsidian](https://obsidian.md/)
+## University of California, Santa Brbara
+### 2024 Winter 
+- **Stellar Structure and Evolution**-[Sunny Wong](https://www.physics.ucsb.edu/people/sunny-wong)<br>
+Handout
+- **Planets and Exoplanets**-[Prof. Ben Mazin](https://www.physics.ucsb.edu/people/benjamin-mazin)<br>
+[Final Paper](https://antoniotang12138.github.io/file/Final paper-PHYS132-Zifan Tang .pdf)
+
+### 2024 Fall 
+- **Classcial Mechanics**(Graduate level)-[Prof. Donald Marolf](https://www.physics.ucsb.edu/people/donald-marolf)
+- **High Energy Astrophysics(**Graduate level)-[Prof. Omer Blase](https://web.physics.ucsb.edu/~blaes/)
+(Retired in July,2025)<br>
+Final Project: [Repeated Tidal Disruption Event: a Unlukiest Star](https://antoniotang12138.github.io/file/PHYS 234 Final Paper - Zifan.pdf)
+
 ## Yunnan University
 ### 2022 Fall 
 - **Quantum Mechanics**-Qing Chen<br>
@@ -17,7 +30,6 @@ For the fast typing of Markdown, I recommend [Obsidian](https://obsidian.md/)
 lecture notes
 - **General Relativity**-[Zhonghui Fan](http://www.astro.ynu.edu.cn/info/1008/1086.htm)<br>
 [Lecture Notes](https://antoniotang12138.github.io/file/General-Relativity-LectureNotes-Zifan.pdf)<br> 
-
 
 ### 2023 Spring 
 - **Cosmology** - [Jun Wang](http://www.science.ynu.edu.cn/info/1042/1108.htm) <br>
@@ -37,15 +49,3 @@ Final Paper: [Cosmological Constant and Vacuum Energy](https://antoniotang12138.
 [Yunnan University Observatory Tour Guide Script](https://antoniotang12138.github.io/file/天文台导游解说词-汤子凡-李桉锐-折慕凡.pdf)
 - Introduction to Particle Physics-JiaQing Zhu
 
-## University of California, Santa Brbara
-### 2024 Winter 
-- **Stellar Structure and Evolution**-[Sunny Wong](https://www.physics.ucsb.edu/people/sunny-wong)<br>
-Handout
-- **Planets and Exoplanets**-[Prof. Ben Mazin](https://www.physics.ucsb.edu/people/benjamin-mazin)<br>
-[Final Paper](https://antoniotang12138.github.io/file/Final paper-PHYS132-Zifan Tang .pdf)
-
-### 2024 Fall 
-- **Classcial Mechanics**(Graduate level)-[Prof. Donald Marolf](https://www.physics.ucsb.edu/people/donald-marolf)
-- **High Energy Astrophysics(**Graduate level)-[Prof. Omer Blase](https://web.physics.ucsb.edu/~blaes/)
-(Retired in July,2025)<br>
-Final Project: [Repeated Tidal Disruption Event: a Unlukiest Star](https://antoniotang12138.github.io/file/PHYS 234 Final Paper - Zifan.pdf)
