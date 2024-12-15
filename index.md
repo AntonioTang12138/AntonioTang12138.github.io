@@ -3,11 +3,10 @@ layout: page
 title: Home
 ---
 # Antonio Tang
-<br>
 
-**International visting student**<br>
-
+**International visting student**
 **Department of Physics, UC Santa Barbara**
+
 
 **<em>Now I am applying for PhD programs or any research opportunity in the institutions of the United Sates.</em> If you are interested in any aspect of me, please email me at - *zifan[at]ucsb[dot]edu*** 
 
