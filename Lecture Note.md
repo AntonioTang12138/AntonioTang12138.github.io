@@ -29,7 +29,7 @@ Final Paper: [Cosmological Constant and Vacuum Energy](https://antoniotang12138.
 - **Computational Physics**-[Xianghua Li](http://www.science.ynu.edu.cn/info/1058/1122.htm)<br>
 [Final Project](https://antoniotang12138.github.io/file/Ising相变的Monte Carol模拟.pdf)
 - **Statistical Mechanics**-[Prof. Bo Zheng](https://person.zju.edu.cn/0001056)
-- **Mathematical Methods for Physics**-Shubai Zhou(Retired)<br>
+- **Mathematical Methods for Physicist**-Shubai Zhou(Retired)<br>
 [Lecture Notes](https://antoniotang12138.github.io/file/Mathematical Methods for Physics.pdf)
 
 ### 2024 Fall 
