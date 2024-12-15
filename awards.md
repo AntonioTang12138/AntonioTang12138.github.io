@@ -12,6 +12,7 @@ title: Awards
 ## Honors
 - First-class Scholarship for Undergradaute at Yunnan University, Nov. 2021
 云南大学本科生一等奖学金
+
 *I am a free and eccentric student with bold self-expression when I was in Yunnan University, I seldom got honors from the offical.*
 
 ## Service and Outreach
