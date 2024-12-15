@@ -7,7 +7,7 @@ title: Lecture Note
 I use [Obsidian](https://obsidian.md/)
 ## Yunnan University
 ### 2022 Fall 
-- Quantum Mechanics - Qing Chen
+- Quantum Mechanics - Qing Chen<br>
 [Notes for CH1, 2, 3, 4](https://antoniotang12138.github.io/file/Quantum Mechanics_ CH 01, 02, 03, 04.pdf) 
 [Notes for CH 5, 6, 7, 8](https://antoniotang12138.github.io/file/Quantum Mechanics_ CH 05, 06, 07, 08.pdf)
 - Electrodynamics-Shubai Zhou（Retired）
