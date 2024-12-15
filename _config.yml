@@ -1,24 +1,25 @@
-title: Hanlin Cai
+title: Zifan Tang
 # tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.
 # description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
-url: https://caihanlin.com
+url: https://anatole12138.github.io
 
 # Owner/author information
 owner:
-  name: Hanlin Cai
-  avatar: hanlin.jpg
-  # bio: Two roads diverged in woods, I took the one less traveled by.
-  email: hanlin.cai@ieee.org
-  cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
+  name: Zifan Tang
+  avatar: zifan.jpg
+  bio: My mission, is to live the Sun's life.
+  email: cduttangzifan@gmail.com
+  cv: https://anatole12138.github.io/file/CV-Zifan-Tang-04-2024.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: lancecai2002
-  github: GuangLun2000
-  linkedin: hanlincai
-  scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
-  bilibili: 594030035
-  researchgate: https://www.researchgate.net/profile/Hanlin-Cai
-  zhihu: https://www.zhihu.com/people/chlire
+  # twitter: lancecai2002
+  # github: Antonio12138
+  zhihu: https://www.zhihu.com/people/tang-zi-fan-27
+  linkedin(TBD): https://www.linkedin.com/in/%E5%AD%90%E5%87%A1-%E6%B1%A4-1180852ab/
+  # scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
+  #bilibili: 594030035
+  #researchgate: https://www.researchgate.net/profile/Hanlin-Cai
+
   # facebook: caihanlin2002
   # instagram: lancecai2002
   # lastfm:
@@ -36,18 +37,24 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About Me
+  - title: Home
     url: /
-  - title: Publications
-    url: /publications/
-  - title: Awards
+  #- title: Teams
+  #  url: /teams/
+  - title: Publications(TBD)
+    #url: /publications/
+  - title: Awards(TBD)
     url: /awards/
-  - title: Hobbies
-    url: /hobbies/
-  - title: Startups
-    url: /startups/
-  - title: Blogs
-    url: /blogs/
+  - title: Lecture Note
+    url: /Lecture Note
+  #- title: Hobbies(TBD)
+  - title: 复旦联培(TBD)
+    url: /FDU Joint Cultivation
+  - title: 飞跃手册(TBD)
+    url: /Fly Overseas Guide
+  #  url: /hobbies/
+  #- title: Blogs
+  #  url: /blogs/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
