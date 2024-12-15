@@ -38,12 +38,12 @@ Final Paper: [Cosmological Constant and Vacuum Energy](https://antoniotang12138.
 
 ## University of California, Santa Brbara
 ### 2024 Winter 
-- Stellar Structure and Evolution-[Sunny Wong](https://www.physics.ucsb.edu/people/sunny-wong)<br>
+- **Stellar Structure and Evolution**-[Sunny Wong](https://www.physics.ucsb.edu/people/sunny-wong)<br>
 Handout
-- Planets and Exoplanets-[Prof. Ben Mazin](https://www.physics.ucsb.edu/people/benjamin-mazin)<br>
+- **Planets and Exoplanets**-[Prof. Ben Mazin](https://www.physics.ucsb.edu/people/benjamin-mazin)<br>
 [Final Paper](https://antoniotang12138.github.io/file/Final paper-PHYS132-Zifan Tang .pdf)
 
 ### 2024 Fall 
-- Classcial Mechanics(Graduate level)-[Prof. Donald Marolf](https://www.physics.ucsb.edu/people/donald-marolf)
-- 2024 Fall High Energy Astrophysics(Graduate level)-[Prof. Omer Blase](https://web.physics.ucsb.edu/~blaes/)(Retired in July,2025) 
+- **Classcial Mechanics**(Graduate level)-[Prof. Donald Marolf](https://www.physics.ucsb.edu/people/donald-marolf)
+- **High Energy Astrophysics(**Graduate level)-[Prof. Omer Blase](https://web.physics.ucsb.edu/~blaes/)(Retired in July,2025) <br>
 Final Project: [Repeated Tidal Disruption Event: a Unlukiest Star](https://antoniotang12138.github.io/file/PHYS 234 Final Paper - Zifan.pdf)
