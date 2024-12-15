@@ -38,5 +38,5 @@ Final Paper: [Cosmological Constant and Vacuum Energy](https://antoniotang12138.
 
 ### 2024 Fall 
 - Classcial Mechanics(Graduate level) - [Prof. Donald Marolf](https://www.physics.ucsb.edu/people/donald-marolf)
-- 2024 Fall High Energy Astrophysics(Graduate level) - [Prof. Omer Blase]()(Retired in July,2025) 
+- 2024 Fall High Energy Astrophysics(Graduate level) - [Prof. Omer Blase](https://web.physics.ucsb.edu/~blaes/)(Retired in July,2025) 
 Final Project: [Repeated Tidal Disruption Event: a Unlukiest Star](https://antoniotang12138.github.io/file/PHYS 234 Final Paper - Zifan.pdf)
