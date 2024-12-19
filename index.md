@@ -21,16 +21,16 @@ title: Home
 *Advisor: [Yang Luo](https://yluo-astro.github.io);*<br>
 *Thesis: Nucleosynthesis induced by the Fast Accretion of sMBH in the Disk of AGN*
 - **Sept. 2021—Aug 2022:** Fudan University, Shanghai, China(Joint Cultivated Undergradate Porgram)
-- **Jan.—Mar., Sept 2024—Present:** UCSB, international Visiting Student
+- **Jan.—Mar., Sept 2024—Present:** UCSB, International Visiting Student
 
 ---
 
 ## Research Interests
 
 - High Energy Astrophysics(Black hole accretion, Tidal Disruption Event)
-- Module for Experiment 
+- Nucleosynthesis(Modules for Experiments in Stellar Astrophysics)
 - Condense Matter Theory(2D Ising Model)
-- AI4Physics
+- AI4Physics(CNN in the classification of phase transition)
 
 ## News and Updates
 
@@ -45,3 +45,6 @@ title: Home
 - **Dec. 14, 2024:** Fall quarter in UCSB ended yesterdasy. Today I updated my personal page for a new cycle of PhD application.
 
 - **Dec. 15, 2024:** Stony Brook, Purdue, Dartmouth
+
+
+*A man can be destroyed, but cannot be defeated. ——Ernest Hemingway*
