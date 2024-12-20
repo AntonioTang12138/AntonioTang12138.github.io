@@ -5,7 +5,7 @@ title: Research
 ---
 **Simulation of Black hole accretion and nucleosynthesis** <br>
 
-<img src="https://antoniotang12138.github.io/file/BH accretion.bmp">
+<img src="https://antoniotang12138.github.io/file/BH%20accretion.bmp" style="width: 300px; height: auto;">
 
 [https://doi.org/10.1093/mnras/stae2557](https://academic.oup.com/mnras/article-pdf/535/4/3050/60817217/stae2557.pdf)<br>
 It is well known that the accreting material piled at the surface of neutron star(or white dwarf) is likely to go thourgh thermonuclear fusion. The unstable flashes exhibits a flare in X-ray band. Why is that the accreting black hole cannot induce such a burst? What is the difference bewteen the black hole accretion and neutron star? On the other hand, a kind of fast accretion stellar mass black hole is thought to be exist in the disk of AGN(named as accretion-modifed star,AMS<sup>[1](https://iopscience.iop.org/article/10.3847/2041-8213/abee81)</sup>). Small BH mass with a fast accretion will bring a extremer ambinet(higher temperautre and dense gas). Based on these questions and analysis, we started from the basic advection-dmonated accretion flow(ADAF) model and explored the effect of thermonuclear fusion on the fast accretion of BH.
