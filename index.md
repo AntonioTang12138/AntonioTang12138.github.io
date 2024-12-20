@@ -48,6 +48,6 @@ title: Home
 
 -**Dec. 18, 2024:** [Dr. Jens Mahlmann](https://jensmahlmann.com/) in Dartmouth shows a interest to my background. However, it is I that didn't catch the deadline of PhD program in Dartmouth because I was so busy before the deadline. This became a great pity for me. The professor invited me to apply to the Dartmouth next year. 
 
-*"A man can be destroyed, but cannot be defeated". —Ernest Hemingway*
-
 -**Dec. 21, 2024:** UCSC
+
+*"A man can be destroyed, but cannot be defeated". —Ernest Hemingway*
