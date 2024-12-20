@@ -3,19 +3,27 @@ layout: page
 permalink: /research/index.html
 title: Research
 ---
-
 **Simulation of Black hole accretion and nucleosynthesis** <br>
-- **Tang, Z.-F.**, Luo, Y., & Wang, J.-M. (2024). Nuclear burning in an accretion flow around a stellar-mass black hole embedded within an AGN disc. *MNRAS*, 535(4), 3050–3058. [https://doi.org/10.1093/mnras/stae2557](https://academic.oup.com/mnras/article-pdf/535/4/3050/60817217/stae2557.pdf)
 
+<img src="https://antoniotang12138.github.io/file/BH accretion.jpg">
 
-**Undergrade Thesis**
+[https://doi.org/10.1093/mnras/stae2557](https://academic.oup.com/mnras/article-pdf/535/4/3050/60817217/stae2557.pdf)It is well known that the accreting material piled at the surface of neutron star(or white dwarf) is likely to go thourgh thermalnuclear fusion. The unstable flashes exhibits a flare in X-ray band. Why is that the accreting black hole cannot induce such a burst? What is the difference bewteen the black hole accretion and neutron star? On the other hand, a kind of fast accretion stellar mass black hole is thought to be exist in the disk of AGN(named as accretion-modifed star,AMS)[1](https://iopscience.iop.org/article/10.3847/2041-8213/abee81)). Small BH mass with a fast accretion will bring a extremer ambinet(higher temperautre and dense gas). Based on these questions and analysis, we started from the basic advection-dmonated accretion flow(ADAF) model and explored the effect of thermalnuclear fusion on the fast accretion of BH.
+
+In the energy equation, we considered the heat released by two types of hydrogen burning(p-p chain and CNO-cycle) and Helium burning(triple alpha). Then, with my supervisor's help, I developed a 4th-order Runge-Kutta method using python to solve the disk structure. We found that the heat released by fusion is still negligble mainly due to the low density and the high advection cooling rate. The answer to the previous question is that, BH has no clear physical surface to deposit the material therefore cannot make it as denser as those in neutron star or white dwarf. 
+
+Then, we employed an open-source FORTRAN code to compute the nuclear reaction network. Significant metal enrichment has been reproduced such as He3 and C12. If these elements are carried by the outflow of the disk, the supersolar metalicity obseved in the broad line region may be explained.
+
+After graduated several month later, when I reviewed this work done by me and my previous supervisor, I found it very naive and lack detail discussion. Many ideas have formed in my brain and I would like to realize them in my graduate study. This work is also part of my undergraudate thesis.
+
+**Undergraduate Thesis**
 - Nucleosynthesis induced by the Fast Accretion of sMBH in the Disk of AGN<br>
-Thesis is written in both Chinese and English. <br>
+Thesis is written in both Chinese and English in a Chinese mainland University. <br>
 [Slides for Thesis Defence](https://antoniotang12138.github.io/file/Thesis_Defence_Zifan Tang.pdf)<br>
 
 **Early Project**
-- Simulation and Visualization of 2D Ising Model.(Written in Chinese)<br>
-[A Slides in English](https://antoniotang12138.github.io/file/Simulation and Visualization of 2d ising model.pdf)
+- Simulation and Visualization of 2D Ising Model.([Written in Chinese](https://antoniotang12138.github.io/file/Ising相变的Monte Carol模拟.pdf))<br>
+
+[A Slides for this project in English](https://antoniotang12138.github.io/file/Simulation and Visualization of 2d ising model.pdf)
 
 <img src="https://antoniotang12138.github.io/file/GIFforisingmodel-ezgif.com-crop.gif">
 
