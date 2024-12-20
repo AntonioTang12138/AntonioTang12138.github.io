@@ -19,8 +19,8 @@ Thesis is written in both Chinese and English. <br>
 
 <img src="https://antoniotang12138.github.io/file/GIF for ising model-speed up.gif">
 
-[An animation] for the evolution of a group of lattice on a canvas. When in a high temperature, the spin of each of the lattice point flips ramdomly and the magnetization doesn't show a preferable direction(black is spin down, white is spin up). The probability for the state of the spin in each point is equal. We call this a  *symmetry*. However, if temperature decrease to the Critical point (near Tc=2.269), where the system tends to condenses partially, either up or down, it choose a branch of the magnetization, and condense rapidly with an 1/8 power index. When the temperature is sufficiently low, the system condenses and the probability to flip for each lattice is low. Once it chose a branch(in this picutre, spin up) to condese, the nearly negligible of the probability of flipping from up to down brings a symmetry breaking.
+An animation for the evolution of a group of lattice on a canvas. In a high temperature, the spin of each of the lattice point flips ramdomly and the magnetization(roughly the average spin of the lattice) doesn't show a preferable direction(black is spin down, white is spin up). The probability for the state of the spin in each point is equal. We call this a  *symmetry* However, if temperature decrease to the critical point (near Tc=2.269), it choose a branch of the magnetization, either up or down, and condense rapidly with an 1/8 power index. When the temperature is sufficiently low, the system condenses and the probability to flip for each lattice is low. Once it chose a branch(in this picutre, spin up) to condese and become quiescent gradually, the nearly negligible of the probability of flipping brings a *symmetry breaking*.
 
 
-- Measuring Minuscule Elongation: a project for Chinese Undergrad Physics Experiment Competition (CUPEC)
+- Measuring Minuscule Elongation: a project for Chinese Undergrad Physics Experiment Competition(CUPEC)
 A highlight of me in freshman. 
