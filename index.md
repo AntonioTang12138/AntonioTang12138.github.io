@@ -46,6 +46,8 @@ title: Home
 
 - **Dec. 15, 2024:** Stony Brook, Purdue, Dartmouth
 
--**Dec. 18, 2024:** The professor I want to work with in Dartmouth shows a great interests to my background. However, it is I that didn't catch the deadline of Dartmouth because I was so busy before the deadline, and the professor invited me to apply to the Dartmouth next year. This becomes a great pity for me.
+-**Dec. 18, 2024:** [Dr. Jens Mahlmann](https://jensmahlmann.com/) in Dartmouth shows a interest to my background. However, it is I that didn't catch the deadline of PhD program in Dartmouth because I was so busy before the deadline. This became a great pity for me. The professor invited me to apply to the Dartmouth next year. 
 
 *"A man can be destroyed, but cannot be defeated". —Ernest Hemingway*
+
+-**Dec. 21, 2024:** UCSC
