@@ -11,9 +11,9 @@ It is well known that the accreting material piled at the surface of neutron sta
 
 In the energy equation, we considered the heat released by two types of hydrogen burning(p-p chain and CNO-cycle) and Helium burning(triple alpha). Then, with my supervisor's help, I developed a 4th-order Runge-Kutta method using python to solve the disk structure. We found that the heat released by fusion is still negligble mainly due to the low density and the high advection cooling rate. The answer to the previous question is that, BH has no clear physical surface to deposit the material therefore cannot make it as denser as those in neutron star or white dwarf. 
 
-Then, we employed an open-source FORTRAN code to compute the nuclear reaction network. Significant metal enrichment has been reproduced such as He3 and C12. If these elements are carried by the outflow of the disk, the supersolar metalicity obseved in the broad line region may be explained. A mass ratio of N/C and O/C can be seen in the figure.
+Then, we employed an [open-source FORTRAN code](https://cococubed.com/code pages/burn helium.shtml) to compute the nuclear reaction network. Significant metal enrichment has been reproduced such as He3 and C12. If these elements are carried by the outflow of the disk, the supersolar metalicity obseved in the broad line region may be explained. A mass ratio of N/C and O/C can be seen in the figure.
 
-<img src="https://antoniotang12138.github.io/file/fraction-5rg and 10rg.png" style="width: 300px; height: auto; display: block; margin: 0 auto;">
+<img src="https://antoniotang12138.github.io/file/fraction-5rg and 10rg.png" style="width: 500px; height: auto; display: block; margin: 0 auto;">
 
 After graduated only several month later, when I reviewed this work done by me and my previous supervisor, I found it very naive and lacks detail discussion. Many ideas have formed in my brain and I would like to realize them in my graduate study. This work is also part of my undergraudate thesis.
 
