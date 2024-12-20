@@ -3,7 +3,7 @@ layout: page
 permalink: /research/index.html
 title: Research
 ---
-- **Understanding the Nucleosynthesis of Fast Accretion in AGN** <br>
+- **Understanding the Nucleosynthesis of Fast Accretion in AGN** 
 
 [https://doi.org/10.1093/mnras/stae2557](https://academic.oup.com/mnras/article-pdf/535/4/3050/60817217/stae2557.pdf)
 
@@ -19,7 +19,7 @@ After graduated only several month later, when I reviewed this work done by me a
 
 - **Undergraduate Thesis**<br>
 Nucleosynthesis induced by the Fast Accretion of sMBH in the Disk of AGN<br>
-Thesis is written in both Chinese and English in a Chinese mainland University. <br>
+Thesis is written in both Chinese and English in a Chinese mainland University.
 [Slides for Thesis Defence](https://antoniotang12138.github.io/file/Thesis_Defence_Zifan Tang.pdf)
 
 - **Early Project**<br>
