@@ -24,7 +24,7 @@ Thesis is written in both Chinese and English in a Chinese mainland University.
 
 - **Early Project**<br>
 Simulation and Visualization of 2D Ising Model.([Written in Chinese](https://antoniotang12138.github.io/file/Ising相变的Monte Carol模拟.pdf))<br>
-[A Slides for this project in English](https://antoniotang12138.github.io/file/Simulation and Visualization of 2d ising model.pdf)<br>
+[A Slides for this project in English](https://antoniotang12138.github.io/file/Simulation and Visualization of 2d ising model.pdf)
 
 <img src="https://antoniotang12138.github.io/file/GIFforisingmodel-ezgif.com-crop.gif" style="width: 300px; height: auto; display: block; margin: 0 auto;">
 
