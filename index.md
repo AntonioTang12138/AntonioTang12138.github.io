@@ -5,7 +5,7 @@ title: Home
 # Antonio Tang
 <br>
 
-**International visting student**<br>
+**International Visting Student**<br>
 
 **Department of Physics, UC Santa Barbara**
 <br>
