@@ -17,12 +17,12 @@ Then, we employed an open-source FORTRAN code to compute the nuclear reaction ne
 
 After graduated only several month later, when I reviewed this work done by me and my previous supervisor, I found it very naive and lacks detail discussion. Many ideas have formed in my brain and I would like to realize them in my graduate study. This work is also part of my undergraudate thesis.
 
-- **Undergraduate Thesis**
+- **Undergraduate Thesis**<br>
 Nucleosynthesis induced by the Fast Accretion of sMBH in the Disk of AGN<br>
 Thesis is written in both Chinese and English in a Chinese mainland University. <br>
 [Slides for Thesis Defence](https://antoniotang12138.github.io/file/Thesis_Defence_Zifan Tang.pdf)
 
-- **Early Project**
+- **Early Project**<br>
 Simulation and Visualization of 2D Ising Model.([Written in Chinese](https://antoniotang12138.github.io/file/Ising相变的Monte Carol模拟.pdf))<br>
 [A Slides for this project in English](https://antoniotang12138.github.io/file/Simulation and Visualization of 2d ising model.pdf)<br>
 
