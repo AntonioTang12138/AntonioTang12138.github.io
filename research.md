@@ -13,7 +13,7 @@ In the energy equation, we considered the heat released by two types of hydrogen
 
 Then, we employed an open-source FORTRAN code to compute the nuclear reaction network. Significant metal enrichment has been reproduced such as He3 and C12. If these elements are carried by the outflow of the disk, the supersolar metalicity obseved in the broad line region may be explained. A mass ratio of N/C and O/C can be seen in the figure.
 
-<img src="file/fraction-5rg and 10rg (1).png" style="width: 300px; height: auto;">
+<img src="https://antoniotang12138.github.io/file/fraction-5rg and 10rg.png" style="width: 300px; height: auto;">
 
 After graduated only several month later, when I reviewed this work done by me and my previous supervisor, I found it very naive and lacks detail discussion. Many ideas have formed in my brain and I would like to realize them in my graduate study. This work is also part of my undergraudate thesis.
 
