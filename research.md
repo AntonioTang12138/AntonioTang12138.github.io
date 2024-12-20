@@ -3,7 +3,7 @@ layout: page
 permalink: /research/index.html
 title: Research
 ---
-- **Understanding the Nucleosynthesis of Fast Accretion in AGN** 
+**Understanding the Nucleosynthesis of Fast Accretion in AGN** 
 
 [https://doi.org/10.1093/mnras/stae2557](https://academic.oup.com/mnras/article-pdf/535/4/3050/60817217/stae2557.pdf)
 
@@ -17,12 +17,12 @@ Then, we employed an [open-source FORTRAN code](https://cococubed.com/code pages
 
 After graduated only several month later, when I reviewed this work done by me and my previous supervisor, I found it very naive and lacks detail discussion. Many ideas have formed in my brain and I would like to realize them in my graduate study. This work is also part of my undergraudate thesis.
 
-- **Undergraduate Thesis**<br>
+**Undergraduate Thesis**<br>
 Nucleosynthesis induced by the Fast Accretion of sMBH in the Disk of AGN<br>
 Thesis is written in both Chinese and English in a Chinese mainland University.
 [Slides for Thesis Defence](https://antoniotang12138.github.io/file/Thesis_Defence_Zifan Tang.pdf)
 
-- **Early Project**<br>
+**Early Project**<br>
 Simulation and Visualization of 2D Ising Model.([Written in Chinese](https://antoniotang12138.github.io/file/Ising相变的Monte Carol模拟.pdf))<br>
 [A Slides for this project in English](https://antoniotang12138.github.io/file/Simulation and Visualization of 2d ising model.pdf)
 
