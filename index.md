@@ -47,4 +47,4 @@ title: Home
 - **Dec. 15, 2024:** Stony Brook, Purdue, Dartmouth
 
 
-*A man can be destroyed, but cannot be defeated. ——Ernest Hemingway*
+*"A man can be destroyed, but cannot be defeated". —Ernest Hemingway*
