@@ -26,7 +26,7 @@ Thesis is written in both Chinese and English in a Chinese mainland University. 
 Simulation and Visualization of 2D Ising Model.([Written in Chinese](https://antoniotang12138.github.io/file/Ising相变的Monte Carol模拟.pdf))<br>
 [A Slides for this project in English](https://antoniotang12138.github.io/file/Simulation and Visualization of 2d ising model.pdf)<br>
 
-<img src="https://antoniotang12138.github.io/file/GIFforisingmodel-ezgif.com-crop.gif">
+<img src="https://antoniotang12138.github.io/file/GIFforisingmodel-ezgif.com-crop.gif" style="width: 300px; height: auto; display: block; margin: 0 auto;">
 
 An animation for the evolution of a group of lattice on a canvas. In a high temperature, the spin of each of the lattice point flips ramdomly and the magnetization(roughly the average spin of the lattice) doesn't show a preferable direction(black is spin down, white is spin up). The probability for the state of the spin in each point is equal. We call this a *symmetry*. However, if temperature decreases to the critical point (near Tc=2.269), it chooses a branch of the magnetization, either up or down(in this picutre, spin up), and condenses rapidly with an 1/8 power index. When the temperature is sufficiently low, the system condenses and the probability to flip for each lattice is also low. <br>
 Once it chose a branch to condese and become quiescent gradually, the nearly negligible of the probability of flipping brings a *symmetry breaking*.
