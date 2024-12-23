@@ -29,7 +29,7 @@ Simulation and Visualization of 2D Ising Model.([Written in Chinese](https://ant
 <img src="https://antoniotang12138.github.io/file/GIFforisingmodel-ezgif.com-crop.gif" style="width: 300px; height: auto; display: block; margin: 0 auto;">
 
 An animation for the evolution of a group of lattices on a canvas. In a high temperature, the spin of each of the lattice point flips randomly and the magnetization(roughly the average spin of the lattice) doesn't show a preferable direction(black is spin down, white is spin up). The probability for the state of the spin in each point is equal. We call this a *symmetry*. However, if the temperature decreases to the critical point (near Tc=2.269), it chooses a branch of the magnetization, either up or down(in this picture, spin up), and condenses rapidly with a 1/8 power index. When the temperature is sufficiently low, the system condenses and the probability of flipping for each lattice is also low. <br>
-Once it chooses a branch to condense and become quiescent gradually, the nearly negligible probability of flipping brings a *symmetry breaking*.
+Once it chooses a branch to condense and become quiescent gradually, the nearly negligible probability of flipping brings a *symmetry breaking*.<br>
 
-Measuring Minuscule Elongation: a project for Chinese Undergrad Physics Experiment Competition(CUPEC)
+- Measuring Minuscule Elongation: a project for Chinese Undergrad Physics Experiment Competition(CUPEC)<br>
 A highlight of me in freshman. 
