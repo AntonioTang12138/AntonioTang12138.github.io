@@ -13,7 +13,7 @@ title: Home
 
 ***Now I am seeking for PhD programs or research assistant or summer research or any research opportunity in the institutions of the United Sates.*** If you are interested in any aspect of me, please email me at - zifan[at]ucsb[dot]edu
 
-[CV](https://antoniotang12138.github.io/file/CV_Zifan_2024.pdf)
+[CV](https://antoniotang12138.github.io/file/Renewed CV_2024_Zifan Tang.pdf)
 
 ## Academic Background
 
