@@ -48,6 +48,6 @@ title: Home
 
 - **Dec. 18, 2024:** [Dr. Jens Mahlmann](https://jensmahlmann.com/) in Dartmouth shows a interest to my background. However, it is I that didn't catch the deadline of PhD program in Dartmouth because the final week falls exactly before the deadline, and I was so busy with the final of my graudate courses at UCSB. This became a great pity for me. The professor invited me to apply to the Dartmouth next year. But I want to go to graduate school next year, not the year after next year. The only way is moving forward to keep search more potential opportunities!
 
-- **Dec. 31, 2024:** [UCSC](/Users/anatole/Documents/GitHub/AntonioTang12138.github.io/file/Academic Statement_UCSC_Physics.pdf), [UIUC](/Users/anatole/Documents/GitHub/AntonioTang12138.github.io/file/Academic Statement_UIUC_Physics.pdf)
+- **Dec. 31, 2024:** [UCSC](https://antoniotang12138.github.io/file/Academic Statement_UCSC_Physics.pdf), [UIUC](https://antoniotang12138.github.io/file/Academic Statement_UIUC_Physics.pdf)
 
 *"A man can be destroyed, but cannot be defeated". —Ernest Hemingway*
